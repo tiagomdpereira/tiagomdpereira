@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, World!
 
-<!--
-**tiagaopereira/tiagaopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Tiago Pereira 👨‍💻
 
-Here are some ideas to get you started:
+🎓 **Bachelor in Mechanical Engineering**  
+📍 *NOVA School of Science and Technology (NOVA SST)*  
+🛠️ 1 year of experience in Mechanical Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Currently pursuing a Master's in Data Science**  
+📍 *ISCTE Business School*  
+📅 *1st year student*
+
+---
+
+### 💡 About Me:
+
+- 👘 Karate practitioner
+- 🎯 Goal-driven and team player
+- 🧠 Passionate about technology and innovation  
+- 💼 **Exploring**: Exciting data science projects and collaboration opportunities  
+
+---
+
+### 🔧 Tech Stack & Tools:
+
+- **Languages**: Python, R, SQL  
+- **Tools**: VS Code, GitHub, Power BI  
+- **Exploring**: Machine Learning, Data Visualization, and Data Wrangling
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn**: [Tiago Pereira](https://www.linkedin.com/in/tiago-pereira-6284041a4/)  
+- **GitHub**: [Tiago's GitHub](https://github.com/tiagaopereira)
+
+---
+
+Tiago Pereira
