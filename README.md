@@ -16,16 +16,15 @@
 
 - 👘 Karate practitioner
 - 🎯 Goal-driven and team player
-- 🧠 Passionate about technology and innovation  
 - 💼 **Exploring**: Exciting data science projects and collaboration opportunities  
 
 ---
 
 ### 🔧 Tech Stack & Tools:
 
-- **Languages**: Python, R, SQL  
-- **Tools**: VS Code, GitHub, Power BI  
-- **Exploring**: Machine Learning, Data Visualization, and Data Wrangling
+- **Languages**: Python, R
+- **Tools**: VS Code, GitHub
+- **Exploring**: Machine Learning and Deep Learning
 
 ---
 
