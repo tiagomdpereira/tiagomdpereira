@@ -2,13 +2,13 @@
 
 ### I'm Tiago Pereira 👨‍💻
 
-🎓 **Bachelor in Mechanical Engineering**  
-📍 *NOVA School of Science and Technology (NOVA SST)*  
-🛠️ 1 year of experience in Mechanical Engineering
-
 🎓 **Currently pursuing a Master's in Data Science**  
 📍 *ISCTE Business School*  
 📅 *1st year student*
+
+🎓 **Bachelor in Mechanical Engineering**  
+📍 *NOVA School of Science and Technology (NOVA SST)*  
+🛠️ 1 year of experience in Mechanical Engineering
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🔧 Tech Stack & Tools:
 
-- **Languages**: Python, R
+- **Languages**: Python
 - **Tools**: VS Code, GitHub
 - **Exploring**: Machine Learning and Deep Learning
 
